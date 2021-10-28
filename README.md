@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## This is Books app
 
-Things you may want to cover:
+## How apps?
+You can write about the contents of the book and save it.
 
+## Environment
 * Ruby version
+ ruby 2.7
 
-* System dependencies
+* Rails version
+ rails 6.1
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
